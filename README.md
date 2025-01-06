@@ -33,9 +33,9 @@ Please, **plan a design** of the system, with the proper types, connections and 
 
 Based on UI request for – 
 - How many event per user?
--- Write a query and show the plan.
+	- Write a query and show the plan.
 - How many events a user have based on a specific root folder (and it sub folders) on a specific day
--- Write a query and show the plan.
+	- Write a query and show the plan.
 
 ### Solution ground rules:
 - The script could be runnable on any given time without errors - rerunnable script.
