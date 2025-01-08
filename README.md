@@ -16,9 +16,9 @@ Please, note any assumption you will take for others, to understand your impleme
 
 You are owner of event monitoring system.
 The system tables are:
-*•*	FOLDER - a table of folders that contains the Folder ID and the ID of its direct parent - Folder (Id, PerantId, Path)
-*•*	USER – a table of users in the system. User (UserId, Name)
-*•*	EVENT- for tracking who did what on the system. Event (EventId, Date, OparationCode, FolderId, Userid)
+- FOLDER- a table of folders that contains the Folder ID and the ID of its direct parent - Folder (Id, PerantId, Path).
+- USER– a table of users in the system. User (UserId, Name).
+- EVENT- for tracking who did what on the system. Event (EventId, Date, OparationCode, FolderId, Userid).
 For ex. Yesterday user1 have an action of “OpenFolder” on C:\Temp.
 	Other, user2 did an oparation of “CloseFolder” on C:\Users.
 
